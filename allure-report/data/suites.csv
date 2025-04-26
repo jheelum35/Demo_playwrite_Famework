@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13175","example test","WebKit","Sat Apr 26 10:09:34 IST 2025","passed","Sat Apr 26 10:09:47 IST 2025","","example.spec.ts","",""
+"","7837","example test","Chromium","Sat Apr 26 10:09:34 IST 2025","passed","Sat Apr 26 10:09:41 IST 2025","","example.spec.ts","",""
+"","8280","example test","Firefox","Sat Apr 26 10:09:34 IST 2025","passed","Sat Apr 26 10:09:42 IST 2025","","example.spec.ts","",""
