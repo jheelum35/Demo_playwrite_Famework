@@ -15,6 +15,7 @@
 **
 📦 Tech Stack**
 playwrite 
+
 Node.js (v18+ recommended)
 TypeScript (optional but recommended)
 Allure Reports (for beautiful test reports)
