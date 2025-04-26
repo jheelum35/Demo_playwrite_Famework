@@ -1,4 +1,5 @@
 🚀 Features
+
 ✅ End-to-end (E2E) browser automation
 
 ✅ Supports Chromium, Firefox, and WebKit
@@ -17,15 +18,22 @@
 playwrite 
 
 Node.js (v18+ recommended)
+
 TypeScript (optional but recommended)
+
 Allure Reports (for beautiful test reports)
+
 **🛠 Setup Instructions**
+
 1. Clone the repository
+   
 git clone https://github.com/your-username/your-repo-name.git
+
 cd your-repo-name
-2. Install dependencies
+
+3. Install dependencies
 npm install
-3. Install Playwright browsers
+4. Install Playwright browsers
 npx playwright install
 🧪 How to Run Tests
 
