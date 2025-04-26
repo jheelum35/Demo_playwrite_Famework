@@ -42,6 +42,8 @@ npx playwright test --project=firefox
 npx playwright test --project=webkit
 
 **📊 Allure Report**
+
+
 To Generate Allure Report:
 Run tests with Allure result output:
 npx playwright test --reporter=allure-playwright
@@ -70,5 +72,22 @@ npx playwright codegen	Open Playwright Codegen for recording scripts
 npx allure open ./allure-report	Open the Allure report
 
 **📜 Environment Variables (.env)**
+
+BASE_URL=https://yourwebsite.com
+USERNAME=testuser
+PASSWORD=secret
+
+import * as dotenv from 'dotenv';
+dotenv.config();
+
+
+✨ Best Practices
+Follow the Page Object Model (POM) for large projects.
+
+Use test.describe() blocks to logically group tests.
+
+Enable retries and traces for flaky tests.
+
+Integrate with CI/CD pipelines (GitHub Actions, Jenkins, etc.)
 
 
