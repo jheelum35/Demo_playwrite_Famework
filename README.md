@@ -13,8 +13,12 @@
 ✅ Allure Reporting integration
 
 ✅ Auto screenshots, videos, and traces on test failures
-**
+
+
+
 📦 Tech Stack**
+
+
 playwrite 
 
 Node.js (v18+ recommended)
